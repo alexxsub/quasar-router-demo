@@ -26,6 +26,10 @@ quasar build
 
 ![Output sample](https://github.com/alexxsub/quasar-router-demo/blob/master/src/demo.gif)
 
+[![Watch the video](src/demo.png)](https://raw.githubusercontent.com/alexxsub/quasar-router-demo/master/src/demo.webm)
+
+
+
 
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
