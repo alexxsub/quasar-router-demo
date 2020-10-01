@@ -24,7 +24,7 @@ quasar build
 
 #### Demo
 
-![Output sample](https://github.com/alexxsub/quasar-router-demo/blob/master/src/demo.gif)
+# Click picture to zoom and pay demo
 
 [![Watch the video](src/demo.png)](https://raw.githubusercontent.com/alexxsub/quasar-router-demo/master/src/demo.webm)
 
