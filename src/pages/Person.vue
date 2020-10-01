@@ -1,8 +1,6 @@
 <template>
   <q-page padding>
-    <q-page-container>
-   Person
-   </q-page-container>
+   Person page
   </q-page>
 </template>
 

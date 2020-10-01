@@ -31,7 +31,7 @@
       </q-list>
     </q-drawer>
 
-    <q-drawer show-if-above v-model="right" side="right" bordered>
+    <q-drawer elevated show-if-above v-model="right" side="right" bordered>
       <router-view name="right" />
 
     </q-drawer>

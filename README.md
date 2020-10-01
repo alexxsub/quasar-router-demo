@@ -22,5 +22,10 @@ npm run lint
 quasar build
 ```
 
+#### Demo
+
+![Output sample](https://github.com/alexxsub/quasar-router-demo.git/blob/master/src/demo.gif)
+
+
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
