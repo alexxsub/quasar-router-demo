@@ -24,7 +24,7 @@ quasar build
 
 #### Demo
 
-![Output sample](https://github.com/alexxsub/quasar-router-demo.git/blob/master/src/demo.gif)
+![Output sample](https://github.com/alexxsub/quasar-router-demo/blob/master/src/demo.gif)
 
 
 ### Customize the configuration
